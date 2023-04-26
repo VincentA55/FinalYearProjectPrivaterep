@@ -1,0 +1,398 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\viny2\.gradle\caches\transforms-3\8b0d447b107c0e9d4add3c3a69b9ad3d\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\5baebab4f6098079faa7eb9374a0c8b3\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\9a1fc7616fadbf5def4e4397cfcc59e1\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\7e35d68879621822491bf20ca257e97b\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\viny2\.gradle\caches\transforms-3\371a1c49b350a1856c513849b138d58d\transformed\jetified-fragment-ktx-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\2476376c253d98821d3230907e7c66c4\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\dd031dbfa48682f61d6f9c99124ba4d8\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\ed56aee3ea1bc73daa676227ccbcbca2\transformed\navigation-ui-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\1311ca624a7e5d4eca9129ec7abc3144\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\viny2\.gradle\caches\transforms-3\8af0cb5b2af6247da3b9dd361031e50a\transformed\jetified-activity-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\dd156241e2461907af3082b0c1dd4b47\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\f358f599c0fa6ddfa661dd68214fe590\transformed\navigation-common-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\5d49a6abcd9957269f137e896e16fbd4\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\f9b726af057b0f90c2cff9ea7c5b8e0f\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\05c58ffc9fcdefc45b7894d151e5e5a7\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\viny2\.gradle\caches\transforms-3\da834902afbfc53c67ba298f0ebf89c3\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\dd9e3a8c2aa69592c17e02f851d5d61d\transformed\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\d1842a909a6789a4df7098825fe507fe\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\viny2\.gradle\caches\transforms-3\671851eb114b69938725673e91fb7b78\transformed\material-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\viny2\.gradle\caches\transforms-3\18f7e249db6aaf0fe70d53f4daa9dd5e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\0bf3d0b122b8bb1a6012102498243225\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\5f2efd0674bf4e710e294f0567586479\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\viny2\.gradle\caches\transforms-3\c79b83a0d5677ea1c82cada02d920066\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\viny2\.gradle\caches\transforms-3\cb20785d8a81386423a706d1a4f44c17\transformed\jetified-activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\1f1d74ac1879f7e13d4ae2f2407c9de2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\fed438e5f64fd11eb1d1e2b46cd0151c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\a04e6128a50c0204a9314c90a94a0677\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\94ae88541b26df6939704d483814876a\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\90d520dde677edf9c9d2ddfc87f2f62b\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\viny2\.gradle\caches\transforms-3\9239c82c7fa4d5ceff3eec88e3ce58d8\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\e79bdb55e129ba4e1d1ae9fc00154213\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\8f3be876e863374325af93938f0485b2\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\b6c8c2eebcf001e64918c5c0fee8e1e0\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\8e98d92dedb546f72ea3e9e951c8dbaa\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\viny2\.gradle\caches\transforms-3\14957d3df61dade26bde21d5293b7c20\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\d527abfcf00feae43515b1cf81c01954\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\54fba8b5ac66f843e8c5bf5f703f8bad\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\38695047a2ecf25df35fee13ba9beb56\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\c43aa70be9f1757332d121bc07e63a03\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\4f901cd4afa89442b7a36cccf047b5a3\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:monitor:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\dd66858807e02676d2d1b585c94e163b\transformed\monitor-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\viny2\.gradle\caches\transforms-3\0ca7965c499d6b2cf4b01a822e4c9018\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\c26a402eb5870bf76975daca075bcb70\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\b86258562346b4fc653a2c4a81535035\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\f528bd99f982df57e4f0f259a8eabfe2\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\1787e46a421b2ef01318fa43d8ee550d\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\3c7c39e3f9e5e42dd3da8a30fd97415c\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\b9f5ef98b1ae217eedb530527c8336e3\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\5deb90f0d90cc1d0e81697b1e134bd56\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\966288d8242c1d149b3ea2c40beafd49\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\viny2\.gradle\caches\transforms-3\2f732bda841b57cf2473901394aa68bc\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\viny2\.gradle\caches\transforms-3\5574ec7f8729a895b469472e0aaf07cf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\5249282be5cdb94b4a821fccc9976d45\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\ce7170fb4d755f7c78bfe6fec394c342\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\518a89f217dbc1ce1fa630eadbeaac40\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\61d5cd0ce2ad8685f93e85e7ef138356\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\viny2\.gradle\caches\transforms-3\4019a0eb3f830f40688ec2a3b3172ad8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\0ceb34bc5037a58a1b7e888d9f923c87\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\3ee32adcccf52ba903716fae61daed99\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\842befd5688907f89ebdd8a15375773c\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\viny2\.gradle\caches\transforms-3\36b3b91f2aa629914ffb758c12b54759\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\viny2\.gradle\caches\transforms-3\ef26ee6c8a63825df83cc6edb625b719\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\viny2\.gradle\caches\transforms-3\5ce64ec4a08e1ce33621e561cd0fd4ae\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\c3f791391c89c3da20d11f4fb388080f\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:5:5-42:19
+MERGED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\5baebab4f6098079faa7eb9374a0c8b3\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:27:5-38:19
+MERGED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\5baebab4f6098079faa7eb9374a0c8b3\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:27:5-38:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\dd9e3a8c2aa69592c17e02f851d5d61d\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\dd9e3a8c2aa69592c17e02f851d5d61d\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\viny2\.gradle\caches\transforms-3\671851eb114b69938725673e91fb7b78\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\viny2\.gradle\caches\transforms-3\671851eb114b69938725673e91fb7b78\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\viny2\.gradle\caches\transforms-3\18f7e249db6aaf0fe70d53f4daa9dd5e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\viny2\.gradle\caches\transforms-3\18f7e249db6aaf0fe70d53f4daa9dd5e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\8e98d92dedb546f72ea3e9e951c8dbaa\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\8e98d92dedb546f72ea3e9e951c8dbaa\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\viny2\.gradle\caches\transforms-3\0ca7965c499d6b2cf4b01a822e4c9018\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\viny2\.gradle\caches\transforms-3\0ca7965c499d6b2cf4b01a822e4c9018\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\c26a402eb5870bf76975daca075bcb70\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\c26a402eb5870bf76975daca075bcb70\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\viny2\.gradle\caches\transforms-3\2f732bda841b57cf2473901394aa68bc\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\viny2\.gradle\caches\transforms-3\2f732bda841b57cf2473901394aa68bc\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\viny2\.gradle\caches\transforms-3\5574ec7f8729a895b469472e0aaf07cf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\viny2\.gradle\caches\transforms-3\5574ec7f8729a895b469472e0aaf07cf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\viny2\.gradle\caches\transforms-3\2f732bda841b57cf2473901394aa68bc\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:9:9-50
+	android:icon
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:11:9-47
+activity#com.example.quadratum.CreateNewActivitiy
+ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:13:13-47
+activity#com.example.quadratum.ExerciseDetailActivity
+ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:16:13-51
+activity#com.example.quadratum.VerticalListActivity
+ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:18:9-22:20
+	android:name
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:18:19-55
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:19:13-21:70
+	android:value
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:21:17-67
+	android:name
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:20:17-63
+activity#com.example.quadratum.HorizontalListActivity
+ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:23:9-27:20
+	android:name
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:23:19-57
+activity#com.example.quadratum.GridListActivity
+ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:28:9-32:20
+	android:name
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:28:19-51
+activity#com.example.quadratum.MainActivity
+ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:exported
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:34:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\viny2\.gradle\caches\transforms-3\8b0d447b107c0e9d4add3c3a69b9ad3d\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\viny2\.gradle\caches\transforms-3\8b0d447b107c0e9d4add3c3a69b9ad3d\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\5baebab4f6098079faa7eb9374a0c8b3\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:20:5-23:54
+MERGED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\5baebab4f6098079faa7eb9374a0c8b3\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:20:5-23:54
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\9a1fc7616fadbf5def4e4397cfcc59e1\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\9a1fc7616fadbf5def4e4397cfcc59e1\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\7e35d68879621822491bf20ca257e97b\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\7e35d68879621822491bf20ca257e97b\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\viny2\.gradle\caches\transforms-3\371a1c49b350a1856c513849b138d58d\transformed\jetified-fragment-ktx-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\viny2\.gradle\caches\transforms-3\371a1c49b350a1856c513849b138d58d\transformed\jetified-fragment-ktx-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\2476376c253d98821d3230907e7c66c4\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\2476376c253d98821d3230907e7c66c4\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\dd031dbfa48682f61d6f9c99124ba4d8\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\dd031dbfa48682f61d6f9c99124ba4d8\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\ed56aee3ea1bc73daa676227ccbcbca2\transformed\navigation-ui-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\ed56aee3ea1bc73daa676227ccbcbca2\transformed\navigation-ui-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\1311ca624a7e5d4eca9129ec7abc3144\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\1311ca624a7e5d4eca9129ec7abc3144\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\viny2\.gradle\caches\transforms-3\8af0cb5b2af6247da3b9dd361031e50a\transformed\jetified-activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\viny2\.gradle\caches\transforms-3\8af0cb5b2af6247da3b9dd361031e50a\transformed\jetified-activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\dd156241e2461907af3082b0c1dd4b47\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\dd156241e2461907af3082b0c1dd4b47\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\f358f599c0fa6ddfa661dd68214fe590\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\viny2\.gradle\caches\transforms-3\f358f599c0fa6ddfa661dd68214fe590\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\5d49a6abcd9957269f137e896e16fbd4\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\5d49a6abcd9957269f137e896e16fbd4\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\f9b726af057b0f90c2cff9ea7c5b8e0f\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\f9b726af057b0f90c2cff9ea7c5b8e0f\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\05c58ffc9fcdefc45b7894d151e5e5a7\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\05c58ffc9fcdefc45b7894d151e5e5a7\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\viny2\.gradle\caches\transforms-3\da834902afbfc53c67ba298f0ebf89c3\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\viny2\.gradle\caches\transforms-3\da834902afbfc53c67ba298f0ebf89c3\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\dd9e3a8c2aa69592c17e02f851d5d61d\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\dd9e3a8c2aa69592c17e02f851d5d61d\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\d1842a909a6789a4df7098825fe507fe\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\d1842a909a6789a4df7098825fe507fe\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\viny2\.gradle\caches\transforms-3\671851eb114b69938725673e91fb7b78\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\viny2\.gradle\caches\transforms-3\671851eb114b69938725673e91fb7b78\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\viny2\.gradle\caches\transforms-3\18f7e249db6aaf0fe70d53f4daa9dd5e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\viny2\.gradle\caches\transforms-3\18f7e249db6aaf0fe70d53f4daa9dd5e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\0bf3d0b122b8bb1a6012102498243225\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\0bf3d0b122b8bb1a6012102498243225\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\5f2efd0674bf4e710e294f0567586479\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\5f2efd0674bf4e710e294f0567586479\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\viny2\.gradle\caches\transforms-3\c79b83a0d5677ea1c82cada02d920066\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\viny2\.gradle\caches\transforms-3\c79b83a0d5677ea1c82cada02d920066\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\viny2\.gradle\caches\transforms-3\cb20785d8a81386423a706d1a4f44c17\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\viny2\.gradle\caches\transforms-3\cb20785d8a81386423a706d1a4f44c17\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\1f1d74ac1879f7e13d4ae2f2407c9de2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\1f1d74ac1879f7e13d4ae2f2407c9de2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\fed438e5f64fd11eb1d1e2b46cd0151c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\fed438e5f64fd11eb1d1e2b46cd0151c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\a04e6128a50c0204a9314c90a94a0677\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\a04e6128a50c0204a9314c90a94a0677\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\94ae88541b26df6939704d483814876a\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\94ae88541b26df6939704d483814876a\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\90d520dde677edf9c9d2ddfc87f2f62b\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\90d520dde677edf9c9d2ddfc87f2f62b\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\viny2\.gradle\caches\transforms-3\9239c82c7fa4d5ceff3eec88e3ce58d8\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\viny2\.gradle\caches\transforms-3\9239c82c7fa4d5ceff3eec88e3ce58d8\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\e79bdb55e129ba4e1d1ae9fc00154213\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\e79bdb55e129ba4e1d1ae9fc00154213\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\8f3be876e863374325af93938f0485b2\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\8f3be876e863374325af93938f0485b2\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\b6c8c2eebcf001e64918c5c0fee8e1e0\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\b6c8c2eebcf001e64918c5c0fee8e1e0\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\8e98d92dedb546f72ea3e9e951c8dbaa\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\8e98d92dedb546f72ea3e9e951c8dbaa\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\viny2\.gradle\caches\transforms-3\14957d3df61dade26bde21d5293b7c20\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\viny2\.gradle\caches\transforms-3\14957d3df61dade26bde21d5293b7c20\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\d527abfcf00feae43515b1cf81c01954\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\d527abfcf00feae43515b1cf81c01954\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\54fba8b5ac66f843e8c5bf5f703f8bad\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\54fba8b5ac66f843e8c5bf5f703f8bad\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\38695047a2ecf25df35fee13ba9beb56\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\38695047a2ecf25df35fee13ba9beb56\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\c43aa70be9f1757332d121bc07e63a03\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\c43aa70be9f1757332d121bc07e63a03\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\4f901cd4afa89442b7a36cccf047b5a3\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\4f901cd4afa89442b7a36cccf047b5a3\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:monitor:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\dd66858807e02676d2d1b585c94e163b\transformed\monitor-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\dd66858807e02676d2d1b585c94e163b\transformed\monitor-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\viny2\.gradle\caches\transforms-3\0ca7965c499d6b2cf4b01a822e4c9018\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\viny2\.gradle\caches\transforms-3\0ca7965c499d6b2cf4b01a822e4c9018\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\c26a402eb5870bf76975daca075bcb70\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\c26a402eb5870bf76975daca075bcb70\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\b86258562346b4fc653a2c4a81535035\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\b86258562346b4fc653a2c4a81535035\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\f528bd99f982df57e4f0f259a8eabfe2\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\f528bd99f982df57e4f0f259a8eabfe2\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\1787e46a421b2ef01318fa43d8ee550d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\1787e46a421b2ef01318fa43d8ee550d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\3c7c39e3f9e5e42dd3da8a30fd97415c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\3c7c39e3f9e5e42dd3da8a30fd97415c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\b9f5ef98b1ae217eedb530527c8336e3\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\b9f5ef98b1ae217eedb530527c8336e3\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\5deb90f0d90cc1d0e81697b1e134bd56\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\5deb90f0d90cc1d0e81697b1e134bd56\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\966288d8242c1d149b3ea2c40beafd49\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\966288d8242c1d149b3ea2c40beafd49\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] C:\Users\viny2\.gradle\caches\transforms-3\2f732bda841b57cf2473901394aa68bc\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\viny2\.gradle\caches\transforms-3\2f732bda841b57cf2473901394aa68bc\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\viny2\.gradle\caches\transforms-3\5574ec7f8729a895b469472e0aaf07cf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\viny2\.gradle\caches\transforms-3\5574ec7f8729a895b469472e0aaf07cf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\5249282be5cdb94b4a821fccc9976d45\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\5249282be5cdb94b4a821fccc9976d45\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\ce7170fb4d755f7c78bfe6fec394c342\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\ce7170fb4d755f7c78bfe6fec394c342\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\518a89f217dbc1ce1fa630eadbeaac40\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\518a89f217dbc1ce1fa630eadbeaac40\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\61d5cd0ce2ad8685f93e85e7ef138356\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\61d5cd0ce2ad8685f93e85e7ef138356\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\viny2\.gradle\caches\transforms-3\4019a0eb3f830f40688ec2a3b3172ad8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\viny2\.gradle\caches\transforms-3\4019a0eb3f830f40688ec2a3b3172ad8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\0ceb34bc5037a58a1b7e888d9f923c87\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\0ceb34bc5037a58a1b7e888d9f923c87\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\3ee32adcccf52ba903716fae61daed99\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\3ee32adcccf52ba903716fae61daed99\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\842befd5688907f89ebdd8a15375773c\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\viny2\.gradle\caches\transforms-3\842befd5688907f89ebdd8a15375773c\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\viny2\.gradle\caches\transforms-3\36b3b91f2aa629914ffb758c12b54759\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\viny2\.gradle\caches\transforms-3\36b3b91f2aa629914ffb758c12b54759\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\viny2\.gradle\caches\transforms-3\ef26ee6c8a63825df83cc6edb625b719\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\viny2\.gradle\caches\transforms-3\ef26ee6c8a63825df83cc6edb625b719\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\viny2\.gradle\caches\transforms-3\5ce64ec4a08e1ce33621e561cd0fd4ae\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\viny2\.gradle\caches\transforms-3\5ce64ec4a08e1ce33621e561cd0fd4ae\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\c3f791391c89c3da20d11f4fb388080f\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\viny2\.gradle\caches\transforms-3\c3f791391c89c3da20d11f4fb388080f\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\5baebab4f6098079faa7eb9374a0c8b3\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\viny2\AndroidStudioProjects\Quadratum4\QuadratumFinalYearProj\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\5baebab4f6098079faa7eb9374a0c8b3\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:25:5-72
+MERGED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:5-72
+MERGED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\5baebab4f6098079faa7eb9374a0c8b3\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:25:22-69
+activity#androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+ADDED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\5baebab4f6098079faa7eb9374a0c8b3\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:28:9-37:20
+	android:multiprocess
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\5baebab4f6098079faa7eb9374a0c8b3\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:31:13-40
+	android:exported
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\5baebab4f6098079faa7eb9374a0c8b3\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\5baebab4f6098079faa7eb9374a0c8b3\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:33:13-78
+	android:taskAffinity
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\5baebab4f6098079faa7eb9374a0c8b3\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\5baebab4f6098079faa7eb9374a0c8b3\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:29:13-96
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\viny2\.gradle\caches\transforms-3\5baebab4f6098079faa7eb9374a0c8b3\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:34:13-36:29
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\dd9e3a8c2aa69592c17e02f851d5d61d\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\dd9e3a8c2aa69592c17e02f851d5d61d\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\dd9e3a8c2aa69592c17e02f851d5d61d\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\dd9e3a8c2aa69592c17e02f851d5d61d\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\dd9e3a8c2aa69592c17e02f851d5d61d\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\dd9e3a8c2aa69592c17e02f851d5d61d\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:28:13-99
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from [androidx.test:core:1.4.0] C:\Users\viny2\.gradle\caches\transforms-3\2b0fbbf004f17d3092bc7d1e14693d82\transformed\jetified-core-1.4.0\AndroidManifest.xml:44:13-103
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\8e98d92dedb546f72ea3e9e951c8dbaa\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\viny2\.gradle\caches\transforms-3\0ca7965c499d6b2cf4b01a822e4c9018\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\viny2\.gradle\caches\transforms-3\0ca7965c499d6b2cf4b01a822e4c9018\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\c26a402eb5870bf76975daca075bcb70\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\c26a402eb5870bf76975daca075bcb70\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\8e98d92dedb546f72ea3e9e951c8dbaa\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\8e98d92dedb546f72ea3e9e951c8dbaa\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\8e98d92dedb546f72ea3e9e951c8dbaa\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\8e98d92dedb546f72ea3e9e951c8dbaa\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\8e98d92dedb546f72ea3e9e951c8dbaa\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\8e98d92dedb546f72ea3e9e951c8dbaa\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\viny2\.gradle\caches\transforms-3\8e98d92dedb546f72ea3e9e951c8dbaa\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\viny2\.gradle\caches\transforms-3\0ca7965c499d6b2cf4b01a822e4c9018\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\viny2\.gradle\caches\transforms-3\0ca7965c499d6b2cf4b01a822e4c9018\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\viny2\.gradle\caches\transforms-3\0ca7965c499d6b2cf4b01a822e4c9018\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78

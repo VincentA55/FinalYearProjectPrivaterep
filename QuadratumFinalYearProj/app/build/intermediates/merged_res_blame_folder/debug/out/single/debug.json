@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-xxhdpi_quad_launcher_background.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-xxhdpi/quad_launcher_background.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_stretching.png.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/stretching.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-hdpi_quad_launcher_background.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-hdpi/quad_launcher_background.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/layout_activity_grid_list.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/layout/activity_grid_list.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-mdpi_quad_launcher_round.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-mdpi/quad_launcher_round.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_lunge.png.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/lunge.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/layout_grid_list_item.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/layout/grid_list_item.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/layout_activity_create_new.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/layout/activity_create_new.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-hdpi_quad_launcher_round.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-hdpi/quad_launcher_round.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-anydpi-v26_quad_launcher.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-anydpi-v26/quad_launcher.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_jumprope.png.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/jumprope.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-anydpi-v26_quad_launcher_round.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-anydpi-v26/quad_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-xxhdpi_quad_launcher_foreground.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-xxhdpi/quad_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-hdpi_quad_launcher_foreground.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-hdpi/quad_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_leg.png.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/leg.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-xxhdpi_quad_launcher_round.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-xxhdpi/quad_launcher_round.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-xhdpi_quad_launcher_round.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-xhdpi/quad_launcher_round.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/layout_activity_exercise_detail.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/layout/activity_exercise_detail.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/layout_vertical_horizontal_list_item.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/layout/vertical_horizontal_list_item.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-mdpi_quad_launcher.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-mdpi/quad_launcher.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/navigation_nav_graph.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_squat.png.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/squat.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-xxxhdpi_quad_launcher.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-xxxhdpi/quad_launcher.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_ic_arrow.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/ic_arrow.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-hdpi_quad_launcher.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-hdpi/quad_launcher.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_ic_overheadpress.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/ic_overheadpress.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-xxxhdpi_quad_launcher_background.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-xxxhdpi/quad_launcher_background.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/layout_activity_vertical_list.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/layout/activity_vertical_list.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_upper_chest_training.png.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/upper_chest_training.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-mdpi_quad_launcher_background.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-mdpi/quad_launcher_background.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_pullup.png.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/pullup.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-xhdpi_quad_launcher_foreground.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-xhdpi/quad_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-xhdpi_quad_launcher.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-xhdpi/quad_launcher.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_situp.png.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/situp.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-xxhdpi_quad_launcher.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-xxhdpi/quad_launcher.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/layout_activity_horizontal_list.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/layout/activity_horizontal_list.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_ic_baseline_info_24.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_bike.png.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/bike.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-xhdpi_quad_launcher_background.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-xhdpi/quad_launcher_background.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_push_up.png.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/push_up.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_ic_treepose.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/ic_treepose.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-mdpi_quad_launcher_foreground.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-mdpi/quad_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_ic_singledumbbell.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/ic_singledumbbell.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-xxxhdpi_quad_launcher_round.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-xxxhdpi/quad_launcher_round.png"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/drawable_ic_sidestretch.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/drawable/ic_sidestretch.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/layout_grid_square_item.xml.flat",
+        "source": "com.example.quadratum.app-main-49:/layout/grid_square_item.xml"
+    },
+    {
+        "merged": "com.example.quadratum.app-merged_res-47:/mipmap-xxxhdpi_quad_launcher_foreground.png.flat",
+        "source": "com.example.quadratum.app-main-49:/mipmap-xxxhdpi/quad_launcher_foreground.png"
+    }
+]
